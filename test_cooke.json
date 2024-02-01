@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "command": {
+        "type": "set_cookie",
+        "cookie": [
+          {
+            "key": "any_name_11",
+            "value": "1234"
+          },
+          {
+            "key": "any_name_22",
+            "value": "3214"
+          }
+        ]
+      }
+    }
+  ]
+}
