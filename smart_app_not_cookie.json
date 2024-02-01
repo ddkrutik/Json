@@ -25,21 +25,6 @@
           }
         }
       }
-    },
-    {
-      "command": {
-        "type": "set_cookie",
-        "cookie": [
-          {
-            "key": "any_name_1",
-            "value": "123"
-          },
-          {
-            "key": "any_name_2",
-            "value": "321"
-          }
-        ]
-      }
     }
   ]
 }
