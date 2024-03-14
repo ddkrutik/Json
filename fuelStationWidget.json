@@ -1,0 +1,41 @@
+"title": "Заправляйтесь в приложении",
+"text": "И оплачивайте до 99% бонусами {{s}}",
+"link": {
+    "iOS": "voiceassistant/?systemName=fuel_app&deeplink_guid=guid&campaign_type=sbol_widget&campaign_name=fuelapp_nearest_stations_sbol",
+    "android": "assistant/launcher?systemName=fuel_app&deeplink_guid=guid&campaign_type=sbol_widget&campaign_name=fuelapp_nearest_stations_sbol"
+},
+"image": {
+    "designSystemImage": "ds_ic_36_gas_station_fill"
+},
+"paramProvider": "fuelStationWidget"
+},
+"isOpened": false,
+"isLiked": false,
+"isDisliked": false
+}
+]
+},
+{
+"place": "mainScreenDepositsEducation",
+"isSeparated": true,
+"items": []
+},
+{
+"place": "mainScreenMessengerEducation",
+"isSeparated": false,
+"items": [
+{
+"campaignId": 21904,
+"templateId": 524283,
+"preview": {
+"view": "default",
+"titleStyle": {
+    "fontSize": 14,
+    "fontWeight": "semi-bold",
+    "textColor": "#ffffffff"
+},
+"textStyle": {
+    "fontSize": 14,
+    "fontWeight": "medium",
+    "textColor": "#00001466"
+}
