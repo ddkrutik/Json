@@ -10,11 +10,10 @@
 },
 "paramProvider": "fuelStationWidget"
 },
+{
 "isOpened": false,
 "isLiked": false,
 "isDisliked": false
-}
-]
 },
 {
 "place": "mainScreenDepositsEducation",
