@@ -1,0 +1,174 @@
+{
+    "items": [
+        {
+            "card": {
+                "type": "widget_two_columns",
+                "left": {
+                    "cards": [
+                        {
+                            "paddings": {
+                                "top": "4x",
+                                "bottom": "4x",
+                                "left": "4x",
+                                "right": "4x"
+                            },
+                            "cells": {
+                                "bottom_cell": {
+                                    "type": "left_right_cell_view",
+                                    "left": {
+                                        "type": "simple_left_view",
+                                        "title": {
+                                            "text": "match_parent, fit bottom",
+                                            "max_lines": 3,
+                                            "typeface": "body1",
+                                            "text_color": "default"
+                                        }
+                                    },
+                                    "right": {
+                                        "type": "disclosure_right_view"
+                                    },
+                                    "log_id": "custom_log_id"
+                                }
+                            },
+                            "has_fade": false,
+                            "width_columns": 2,
+                            "aspect_ratio": "1:1",
+                            "background_color": "#407bb3",
+                            "background_image": {
+                                "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                                "urls": []
+                            }
+                        },
+                        {
+                            "paddings": {
+                                "top": "4x",
+                                "bottom": "4x",
+                                "left": "4x",
+                                "right": "4x"
+                            },
+                            "cells": {
+                                "bottom_cell": {
+                                    "type": "left_right_cell_view",
+                                    "left": {
+                                        "type": "simple_left_view",
+                                        "title": {
+                                            "text": "match_parent, fill",
+                                            "max_lines": 3,
+                                            "typeface": "body1",
+                                            "text_color": "default"
+                                        }
+                                    },
+                                    "right": {
+                                        "type": "disclosure_right_view"
+                                    },
+                                    "log_id": "custom_log_id"
+                                }
+                            },
+                            "has_fade": false,
+                            "width_columns": 2,
+                            "aspect_ratio": "1:1",
+                            "background_color": "#407bb3",
+                            "background_image": {
+                                "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                                "urls": [
+                                   {
+                                      "url":"https://cdn.sberdevices.ru/temp/sberfriend/STORIS/rendom_koffe.png"
+                                   }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "right": {
+                    "cards": [
+                        {
+                            "paddings": {
+                                "top": "4x",
+                                "bottom": "4x",
+                                "left": "4x",
+                                "right": "4x"
+                            },
+                            "cells": {
+                                "bottom_cell": {
+                                    "type": "left_right_cell_view",
+                                    "left": {
+                                        "type": "simple_left_view",
+                                        "title": {
+                                            "text": "fixed size, fill, gravity top right",
+                                            "max_lines": 3,
+                                            "typeface": "body1",
+                                            "text_color": "default"
+                                        }
+                                    },
+                                    "right": {
+                                        "type": "disclosure_right_view"
+                                    },
+                                    "log_id": "custom_log_id"
+                                }
+                            },
+                            "has_fade": false,
+                            "width_columns": 2,
+                            "aspect_ratio": "1:1",
+                            "background_color": "#407bb3",
+                            "background_image": {
+                                "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                                "urls": [
+                                   {
+                                      "color_scheme":"light",
+                                      "url":"https://cdn.sberdevices.ru/temp/sberfriend/STORIS/rendom_koffe.png"
+                                   },
+                                   {
+                                      "url":"https://cdn.sberdevices.ru/temp/sberfriend/STORIS/grit_2.png"
+                                   }
+                                ]       
+                            }
+                        },
+                        {
+                            "paddings": {
+                                "top": "4x",
+                                "bottom": "4x",
+                                "left": "4x",
+                                "right": "4x"
+                            },
+                            "cells": {
+                                "bottom_cell": {
+                                    "type": "left_right_cell_view",
+                                    "left": {
+                                        "type": "simple_left_view",
+                                        "title": {
+                                            "text": "fixed size, fit, gravity center",
+                                            "max_lines": 3,
+                                            "typeface": "body1",
+                                            "text_color": "default"
+                                        }
+                                    },
+                                    "right": {
+                                        "type": "disclosure_right_view"
+                                    },
+                                    "log_id": "custom_log_id"
+                                }
+                            },
+                            "has_fade": false,
+                            "width_columns": 2,
+                            "aspect_ratio": "1:1",
+                            "background_color": "#407bb3",
+                            "background_image": {
+                                "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                                "urls": [
+                                    {
+                                      "color_scheme":"light",
+                                      "url":"https://cdn.sberdevices.ru/temp/sberfriend/STORIS/grit_2.png"
+                                   },
+                                   {
+                                      "color_scheme":"dark",
+                                      "url":"https://cdn.sberdevices.ru/temp/sberfriend/STORIS/rendom_koffe.png"
+                                   }
+                                ]   
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
